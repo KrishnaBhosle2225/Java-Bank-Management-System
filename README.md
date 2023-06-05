@@ -1,0 +1,1 @@
+The Bank Management System is a Java application built using JDBC, MySQL, Swing, and AWT. It provides a user-friendly interface for managing bank transactions, customer information, and account details. The system utilizes database connectivity to ensure secure data storage and retrieval for efficient banking operations.
